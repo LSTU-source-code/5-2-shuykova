@@ -1,5 +1,5 @@
 # 5-2-shuykova
-Исходный код по предмету "Прикладные задачи анализа данных"
+Сделать описательную статистику (несколько параметров по строкам и по столбцам) по этой таблице (https://docs.google.com/spreadsheets/d/19uclD9b_xkAL6l-BkY2imjM1KM4tsm5y/edit?usp=drive_web&ouid=108075746863990296363&rtpof=true)
 
 # ВЫВОД:
 ![image](https://github.com/user-attachments/assets/a45af1d5-69d3-43ab-b274-58f213377c0e)
