@@ -1,5 +1,6 @@
-# 5-2-shuykova
-Сделать описательную статистику (несколько параметров по строкам и по столбцам) по этой таблице (https://docs.google.com/spreadsheets/d/19uclD9b_xkAL6l-BkY2imjM1KM4tsm5y/edit?usp=drive_web&ouid=108075746863990296363&rtpof=true)
+# Задание по "Прикладным задачам анализа данных".
+1. Пройти "Трек для начинающих" в этом курсе (https://stepik.org/course/201658/syllabus)
+2. Сделать описательную статистику (несколько параметров по строкам и по столбцам) по этой таблице (https://docs.google.com/spreadsheets/d/19uclD9b_xkAL6l-BkY2imjM1KM4tsm5y/edit?usp=drive_web&ouid=108075746863990296363&rtpof=true)
 
 # ВЫВОД:
 ![image](https://github.com/user-attachments/assets/a45af1d5-69d3-43ab-b274-58f213377c0e)
