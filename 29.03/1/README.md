@@ -37,5 +37,6 @@
 
 
 **Распределение оценок Y по причинам выбора программы X**
-- ![image](https://github.com/user-attachments/assets/dd191ccd-2a00-4285-9584-e47580317975)
+![image](https://github.com/user-attachments/assets/4497b2bf-2a72-452b-867c-98a481429b86)
+
 
