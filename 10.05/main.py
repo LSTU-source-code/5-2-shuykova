@@ -11,11 +11,14 @@ from sklearn.cluster import KMeans
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split  # ✅ Добавлен импорт
 from IPython.display import display
 import warnings
 
+# Активация стилей Seaborn ✅ Замена plt.style.use('seaborn')
+sns.set()
+
 # Настройки отображения
-plt.style.use('seaborn')
 pd.set_option('display.max_columns', None)
 warnings.filterwarnings('ignore')
 
